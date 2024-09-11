@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/delta-test-task/static/css/main.f1c72eaf.css",
+    "main.js": "/delta-test-task/static/js/main.71156bb8.js",
+    "index.html": "/delta-test-task/index.html",
+    "main.f1c72eaf.css.map": "/delta-test-task/static/css/main.f1c72eaf.css.map",
+    "main.71156bb8.js.map": "/delta-test-task/static/js/main.71156bb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1c72eaf.css",
+    "static/js/main.71156bb8.js"
+  ]
+}
